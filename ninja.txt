@@ -1,1 +1,1 @@
-ServerNhưLồn:0.tcp.ap.ngrok.io:19282:0:0
+ServerNhuLon:0.tcp.ap.ngrok.io:14274:0:0
